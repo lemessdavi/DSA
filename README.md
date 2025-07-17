@@ -8,6 +8,9 @@
 -   MazeSolver (day1)
 -   QuickSort (day1)
 -   TwoCrystalBalls (day1)
+-   BTPreOrder (day1)
+-   BTInOrder (day1)
+-   BTPostOrder (day1)
 
 ## Structure made by:
 
